@@ -8,21 +8,8 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-This program uses logic gates to convert a user input
-of a binary number into its base-10 form.
-
+- A single AND gate applied to two inputs
 ## How to test
-Input:
-To use the converter, enter a binary combination with the
-last three switches on the red set of switches.
-
-Output:
-If the output is not 0, the converter will light up one bar on the 
-bar graph based on the input. Each box correlates to one base-10 
-number from 1 to 7, and they are counted from the bottom up, i.e. the first 
-box from the bottom represents the number 1 and the seventh box from the bottom 
-represents the number 7.
-If the binary input is 0, the red LED below the bar graph wll light up.
-
+- Try all combinations of the two inputs
 ## External hardware
-A bar graph light, a single LED, and an eight-count switch
+- A single LED
